@@ -19,7 +19,8 @@ Hour | Act
 </div>
 
 <div align="center">
-## -Languages-
+
+##  -Languages-
 <a href = "https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/></a>
 <a href = "https://en.wikipedia.org/wiki/Through_Thick_and_Thin"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a> 
 <a href = "https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/></a>
