@@ -1,9 +1,9 @@
-# Hi i'm Chihun Kim [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chihungim)](https://solved.ac/chihungim)
-<div align = "center">
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=chihungim&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chihungim&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-#
+#  
+# Hi 👋 <br> i'm Chihun Kim  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chihungim)](https://solved.ac/chihungim)
+
+<div align = "center">
+  
   
 
 ### _***My daily routine***_ (dream)
@@ -19,7 +19,13 @@ Hour | Act
 </div>
 
 <div align="center">
+  
+## -Status-
+  
+[![github stats](https://github-readme-stats.vercel.app/api?username=chihungim&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chihungim&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
+  
 ##  -Languages-
 <a href = "https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/></a>
 <a href = "https://en.wikipedia.org/wiki/Through_Thick_and_Thin"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a> 
@@ -33,5 +39,8 @@ Hour | Act
 <a href = "https://www.opengl.org//"><img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white"/></a>
 <a href = "https://unity.com/"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/></a>
 <a href = "https://www.unrealengine.com/en/"><img src="https://img.shields.io/badge/Unreal Engine-000000?style=flat-square&logo=Unreal Engine&logoColor=white"/>
+<br>
+  
+
 
 </div>
