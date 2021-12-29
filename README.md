@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JisuPark%20%20&height=200&fontSize=100)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chihungim)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @chihungim
