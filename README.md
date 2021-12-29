@@ -4,4 +4,4 @@
 - 👀 I’m interested in Client Apllication Development
 - 🌱 I'm currently learning Game Development, and training Algorithm.
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{chihungim})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/chihungim)
