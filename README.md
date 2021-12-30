@@ -15,7 +15,8 @@ Hour | Act
 2.0 | rest
 2.0 | __dev something__
 2.0 | rest
-2.0 | learn something
+2.0 | __learn something__
+2.0 | rest
 </div>
 
 <div align="center">
