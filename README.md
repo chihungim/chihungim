@@ -32,15 +32,13 @@ Hour | Act
 <a href = "https://en.wikipedia.org/wiki/C_(programming_language)" target='_blank'><img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/></a>
 <a href = "https://www.oracle.com/java/" target='_blank'><img src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/></a>
 <a href = "https://www.mysql.com/" target='_blank'><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
-<a href = "https://docs.microsoft.com/en-us/office/vba/api/overview/" target='_blank'><img src="https://img.shields.io/badge/VBA-D83B01?style=flat-square&logo=Microsoft Office&logoColor=white"/></a> 
+
 
 ## -Currently Interested-
-<a href = "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target='_blank'><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>
 <a href = "https://dotnet.microsoft.com/en-us/" target='_blank'><img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/></a>
 <a href = "https://en.wikipedia.org/wiki/Linear_algebra" target='_blank'><img src="https://img.shields.io/badge/Linear algebra-000000?style=flat-square&logo=Matrix&logoColor=white"/></a>
 <a href = "https://www.opengl.org//" target='_blank'><img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white"/></a>
 <a href = "https://unity.com/" target='_blank'><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/></a>
-<a href = "https://www.unrealengine.com/en/" target='_blank'><img src="https://img.shields.io/badge/Unreal Engine-000000?style=flat-square&logo=Unreal Engine&logoColor=white"/>
 <br>
   
 
