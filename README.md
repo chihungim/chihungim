@@ -24,7 +24,6 @@ Hour | Act
 ## -Status-
   
 [![github stats](https://github-readme-stats.vercel.app/api?username=chihungim&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chihungim&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
   
 ##  -Tech Stack-
