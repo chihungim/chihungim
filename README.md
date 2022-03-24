@@ -1,23 +1,7 @@
-
-#  
-# Hi <br> i'm Chihun Kim  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chihungim)](https://solved.ac/chihungim)
-
-<div align = "center">
   
-  
+# Hi <br> i'm Chihun Kim  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chihungim)](https://solved.ac/chihungim) 
 
-### _***My daily routine***_ (dream)
-Hour | Act
----|---
-1.0 | get-up
-0.5 | wash
-2.0 | <U>__solve algorithm__</U> 
-2.0 | rest
-2.0 | __dev something__
-2.0 | rest
-2.0 | __learn something__
-2.0 | rest
-</div>
+
 
 <div align="center">
   
